@@ -20,11 +20,12 @@ else {
 
 ReactDOM.render(
   <>
-  <h1>Hello Sir,  {greeting} </h1>
+  <h1>Hello Friends,  {greeting} </h1>
   </>
   ,
   document.getElementById('root')
 );
+
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.
